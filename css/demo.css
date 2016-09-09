@@ -1,0 +1,15 @@
+@import url('reset.css');
+/* General Demo Style */
+body{
+    background:#e6eecc url(../images/beige_paper.png) repeat top left;
+	color: #333;
+	font-family: "microsoft yahei", Arial, sans-serif;
+	font-size: 13px;
+}
+.container{
+	position:relative;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
